@@ -4,7 +4,8 @@
 
 - Probabilistic programming — Stan, NUTS, running inference without a backend
 - On-device Bayesian inference — particle filters over phone sensor data
-- WebAssembly and the languages that target it — Rust, MoonBit
+- WebAssembly — Rust in the browser, and where it actually beats hand-written JS
+- MoonBit — one source to both wasm and JS; watching whether its numeric loops catch up
 - Agent harness design — Skills, MCP, reproducible agent loops
 - Local LLMs for the cases where a frontier model is too much
 - Kaggle / Numerai, and agents that run the competition loop themselves
