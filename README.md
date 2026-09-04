@@ -2,14 +2,15 @@
 
 **Interested in**
 
-- Probabilistic programming — Stan, NUTS, running inference without a backend
-- On-device Bayesian inference — particle filters over phone sensor data
-- WebAssembly — Rust in the browser, and where it actually beats hand-written JS
-- MoonBit — one source to both wasm and JS; watching whether its numeric loops catch up
-- Agent harness design — Skills, MCP, reproducible agent loops
+- On-device Bayesian and ML inference
 - Local LLMs for the cases where a frontier model is too much
+- Probabilistic programming
+- WebAssembly
+- MoonBit
+- Agent harness design
 - Kaggle / Numerai, and agents that run the competition loop themselves
-- Bitcoin — SeedSigner, air-gapped signing
+- Bitcoin
+- Blockchain
 
 **Before**
 
