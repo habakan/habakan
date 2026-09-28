@@ -23,5 +23,6 @@
 
 Python · TypeScript · Rust · WebAssembly · PyTorch · Stan · AWS · Cloudflare
 
+- [Github Sponsors](https://github.com/sponsors/habakan)
 - [X @habakan_f](https://x.com/habakan_f)
 - [Blog](https://blog.habakan.com/#/en)
